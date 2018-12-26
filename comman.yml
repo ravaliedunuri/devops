@@ -1,2 +1,12 @@
 comman file from master branch
+<<<<<<< HEAD
 line from r3
+=======
+<<<<<<< HEAD
+line from r2
+
+
+=======
+line from r1
+>>>>>>> master
+>>>>>>> master
